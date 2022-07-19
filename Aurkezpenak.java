@@ -34,6 +34,6 @@ public class Aurkezpenak{
         System.out.println("22 => ... naiz. ... tik nator. Iaz...");
         System.out.println("23 => ... naiz. ... tik nator. Iaz...");
         System.out.println("24 => ... naiz. ... tik nator. Iaz...");
-        System.out.println("25 => ... naiz. ... tik nator. Iaz...");
+        System.out.println("25 => Nonor naiz ni. Handik nator. Iaz batek daki non nengoen.");
     }
 }
