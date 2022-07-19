@@ -24,7 +24,7 @@ public class Aurkezpenak{
         System.out.println("12 => ... naiz. ... tik nator. Iaz...");
         System.out.println("13 => ... naiz. ... tik nator. Iaz...");
         System.out.println("14 => ... naiz. ... tik nator. Iaz...");
-        System.out.println("15 => ... naiz. ... tik nator. Iaz...");
+        System.out.println("15 => Hau ez naiz ni, baina ixorratzea gustatzen zait.");
         System.out.println("16 => ... naiz. ... tik nator. Iaz...");   
         System.out.println("17 => ... naiz. ... tik nator. Iaz...");
         System.out.println("18> ... naiz. ... koa naiz. ... ikasi nuen.");
