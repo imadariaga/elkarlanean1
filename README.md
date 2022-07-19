@@ -1,2 +1,3 @@
 # elkarlanean1
-Gelako bakoitzek bere burua aurkeztuko du. Zerrendan daukan zenbakia erabiliiz.
+Gelakide bakoitzak bere burua aurkeztuko du programa xume honen bidez. 
+Zerrendan daukan zenbakia erabiliz.
